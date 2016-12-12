@@ -1,0 +1,28 @@
+{
+  "name": "sloc_counter",
+  "version": "1.0.0",
+  "description": "a javascript sloc counter that counts semi colognes in js files",
+  "main": "sloc_counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjtaill/SlocCounter.git"
+  },
+  "keywords": [
+    "javascript",
+    "sloc",
+    "counter"
+  ],
+  "author": "Troy Taillefer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjtaill/SlocCounter/issues"
+  },
+  "homepage": "https://github.com/tjtaill/SlocCounter#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "walk": "^2.3.9"
+  }
+}
